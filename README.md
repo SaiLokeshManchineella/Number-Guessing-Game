@@ -1,2 +1,3 @@
 # Number-Guessing-Game
-This is a MCQ test project developed in java programming which takes user name and password from user and on verification gives access to perform operations..
+This is a small game with user interaction developed in java programming that takes input from user and responds weather the guess is correct or not .This continues upto 5 turns or till the player wins .
+
